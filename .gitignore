@@ -1,21 +1,62 @@
-.config/gh/**
-.config/gh-copilot/**
-.config/ghc/**
-.config/go/**
-.config/swi-prolog/**
-.config/github-copilot/**
-
-.config/xp_project
-.config/nvim/lazy-lock.json
-.zsh_secrets
-.gemini/settings.json
-.gemini/tmp
-.gemini/google_accounts.json
-.gemini/installation_id
-.gemini/oauth_creds.json
+# Generic
 .DS_Store
-.config/configstore
-.config/raycast
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.log
 
-playground/csharp/MatrixProject.Tests/obj/Debug/net9.0
-playground/csharp/MatrixProject/obj/Debug/net9.0
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+
+# C#
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+project.lock.json
+project.assets.json
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Neovim
+.nvimlog
+.netrwhist
+*viminfo*
+
+# Zone.Identifier files
+*:Zone.Identifier
+
+# OS-specific
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore sensitive files
+.gemini/oauth_creds.json
+.config/gh/hosts.yml

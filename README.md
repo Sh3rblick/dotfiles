@@ -10,11 +10,11 @@ Then, clone this dotfiles repository and configure Git with your personal detail
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vl4dk0/dotfiles.git ~/dotfiles
+git clone https://github.com/Sh3rblick/dotfiles.git ~/dotfiles
 
 # Configure Git
-git config --global user.name "Vladko Jancar"
-git config --global user.email "jvladko@gmail.com"
+git config --global user.name "Samuel Konkol"
+git config --global user.email "konkolsamo464@gmail.com"
 ```
 
 ## 2. Install Homebrew

@@ -1,0 +1,51 @@
+[
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 0,
+    "type": "user",
+    "message": "I want to push this dotfiles file on my github repository. I think I already have a repository called dotfiles, so just update it for the current one",
+    "timestamp": "2025-08-17T15:17:41.250Z"
+  },
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 1,
+    "type": "user",
+    "message": "Actually my username is Sh3rblick. And could you use gh comands instead?",
+    "timestamp": "2025-08-17T15:19:19.379Z"
+  },
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 2,
+    "type": "user",
+    "message": "I already have a repository dotfiles https://github.com/Sh3rblick/dotfiles",
+    "timestamp": "2025-08-17T15:20:37.567Z"
+  },
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 3,
+    "type": "user",
+    "message": "I want to force push current dotfiles. I need to recursively remove Zone.identifiers\n\nAlso update ReadMe file, due to inaccurate name and mail info.\n\nAdd unnecessery folders from playground like obj or __pycache__ to gitignore",
+    "timestamp": "2025-08-17T15:23:50.363Z"
+  },
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 4,
+    "type": "user",
+    "message": "Aactually I want you to make reasonable gitignore on your own, I let you pick whhat is important and wat's not",
+    "timestamp": "2025-08-17T15:25:13.747Z"
+  },
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 5,
+    "type": "user",
+    "message": "change mail adress to konkolsamo464@gmail.com and name to Samuel Konkol",
+    "timestamp": "2025-08-17T15:27:16.091Z"
+  },
+  {
+    "sessionId": "8017bdb1-6844-40c1-bb8a-7c6a319d0722",
+    "messageId": 6,
+    "type": "user",
+    "message": "change user name only",
+    "timestamp": "2025-08-17T15:29:33.032Z"
+  }
+]
