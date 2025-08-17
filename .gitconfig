@@ -1,0 +1,19 @@
+[user]
+	email = konkolsamo464@gmail.com
+	name = Samuel Konkol
+[core]
+	eol = lf
+	autocrlf = input
+	pager = 
+[init]
+	defaultBranch = main
+[alias]
+	lg = log --all --oneline --graph --decorate
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/bin/gh auth git-credential
+[push]
+	autoSetupRemote = true
